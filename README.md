@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Jasmin Patel
 
-Final-year Computer Engineering student @ GEC Bharuch (GTU) - AI/ML Engineer in the making
+Computer Engineer - AI/ML Engineer in the making
 
 - 🤖 Interested in **AI/ML Engineering**, LLMs, OCR pipelines, online learning, and backend systems
-- 🔬 Co-authored a **conference-published research paper** on an ML-based medical diagnosis pipeline
-- ☁️ Currently interning at **Kriit Technologies** as a Software Developer (Salesforce + AI/ML)
+- 🔬 Co-authored a **Scopus Indexed research paper** on an ML-based medical diagnosis pipeline
+- ☁️ Currently working at **Kriit Technologies** as a Python Developer specialised in AI/ML
 
 ---
 
@@ -28,5 +28,5 @@ Final-year Computer Engineering student @ GEC Bharuch (GTU) - AI/ML Engineer in 
 
 ### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dte-gecbh-com-jasmin-patel-b7348125a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminpatel2110/)
 [![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/jasmin_patel)
